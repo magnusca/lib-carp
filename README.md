@@ -5,4 +5,6 @@ dette er et eksempel for
 bruk dette på eget ansvar
 Det blir trolig slettet etter hvert.
 For det er jo ikke noe viktig som står her.
+
+#MAGNUS VAR HER
 `Dette er code block`
